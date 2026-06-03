@@ -55,7 +55,7 @@ public:
             }
         }
         if(time>0)
-        return time-1; // edge case if no fresh ornages are present
+        return time-1; // edge case if no fresh ornages are present actually no need actually needed if no rotten no fresh oranges are present matrix is all 0 then it create error 
         return 0;
     }
 };
