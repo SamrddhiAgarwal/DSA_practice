@@ -3,6 +3,7 @@ public:
     int bfs(vector<vector<int>>& grid)
     {
         int n=grid.size(),m=grid[0].size();
+        int fresh=0;
         queue<pair<int,int>> q;
         for(int i=0;i<n;i++)
         {
@@ -10,8 +11,12 @@ public:
             {
                 if(grid[i][j]==2)
                 q.push({i,j});
+                if(grid[i][j]==1)
+                fresh++;
             }
         }
+        // return fresh;
+        if(fresh==0) return 0;
         int time=0;
         int dx[]={0,1,0,-1};
         int dy[]={-1,0,1,0};
@@ -34,28 +39,31 @@ public:
                     {
                         grid[x][y]=2;
                         q.push({x,y});
+                        fresh--;
                     }
                     
                 }
                 sz--;
             }
         }
-        return time;
+        return (fresh!=0) ? -1:time-1;
     }
     int orangesRotting(vector<vector<int>>& grid) {
-        int time= bfs(grid); 
+        return bfs(grid);
+        /*int time= bfs(grid); 
         
         int n=grid.size(),m=grid[0].size();
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(grid[i][j]==1)
-                return -1;
-            }
-        }
+        // can be optimised if we count number of fresh oranges before hand
+        // for(int i=0;i<n;i++)
+        // {
+        //     for(int j=0;j<m;j++)
+        //     {
+        //         if(grid[i][j]==1)
+        //         return -1;
+        //     }
+        // }
         if(time>0)
         return time-1; // edge case if no fresh ornages are present actually no need actually needed if no rotten no fresh oranges are present matrix is all 0 then it create error 
-        return 0;
+        return 0;*/
     }
 };
