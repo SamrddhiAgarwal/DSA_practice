@@ -12,6 +12,7 @@
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -41,6 +43,7 @@
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Graph Theory
 |  |
@@ -68,6 +71,7 @@
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Union-Find
 |  |
@@ -77,6 +81,7 @@
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
