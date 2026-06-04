@@ -18,7 +18,7 @@ public:
             int x=i+dx[d];
             int y=j+dy[d];
             if((x>=0 && x<n && y>=0 && y<m && grid[x][y]>grid[i][j]))
-            cnt+=(dfs_dp2(grid,dp,x,y));
+            cnt+=(dfs_dp2(grid,dp,x,y)%MOD);
         }
         return dp[i][j]=(cnt%MOD);
     }
@@ -32,9 +32,9 @@ public:
             for(int j=0;j<m;j++)
             {
                 if(dp[i][j]==-1)
-                cnt+=dfs_dp2(matrix,dp,i,j);
+                cnt+=dfs_dp2(matrix,dp,i,j)%MOD;
                 else
-                cnt+=(dp[i][j]);
+                cnt+=(dp[i][j])%MOD;
             }
         }
         return (cnt%MOD);
