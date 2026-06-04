@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
@@ -21,6 +22,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
@@ -29,6 +31,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
@@ -53,6 +56,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
@@ -62,6 +66,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->-->
