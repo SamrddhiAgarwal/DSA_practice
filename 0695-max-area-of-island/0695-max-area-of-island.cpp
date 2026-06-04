@@ -1,14 +1,15 @@
 class Solution {
 public:
     int cnt=0;
-    void dfs(vector<vector<int>>& grid,int row,int col) // other method is using int& cnt 
+    int dfs(vector<vector<int>>& grid,int row,int col) // other method is using int& cnt 
     {
         grid[row][col]=2;
         int n=grid.size();
         int m=grid[0].size();
         int dx[]={0,1,0,-1};
         int dy[]={-1,0,1,0};
-        cnt++;
+        // cnt++;
+        int size=1;//method adopted from below actually what mistake we did was size++ after condition check which was returning only the number of time dfs was called that time
         for(int i=0;i<4;i++)
         {
             int x=row+dx[i];
@@ -16,10 +17,11 @@ public:
             if(x>=0 && x<n && y>=0 && y<m && grid[x][y]==1)
             {
                 
-                dfs(grid,x,y);
+                size+=dfs(grid,x,y);
             } //1+dfs doesn't work cause at one point we 
             
         }
+        return size;
     }
     int dfs2(vector<vector<int>>& grid,int x,int y) // other method is using int& cnt 
     {
@@ -49,7 +51,8 @@ public:
                     // dfs(grid,i,j);
                     // mx=max(mx,cnt);
                     // cnt=0;
-                    mx=max(mx,dfs2(grid,i,j));
+                    // mx=max(mx,dfs2(grid,i,j));
+                    mx=max(mx,dfs(grid,i,j));
                 }
             }
         }
