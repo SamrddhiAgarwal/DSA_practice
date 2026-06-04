@@ -1,7 +1,7 @@
 class Solution {
 public:
     int cnt=0;
-    void dfs(vector<vector<int>>& grid,int row,int col)
+    void dfs(vector<vector<int>>& grid,int row,int col) // other method is using int& cnt 
     {
         grid[row][col]=2;
         int n=grid.size();
@@ -21,6 +21,21 @@ public:
             
         }
     }
+    int dfs2(vector<vector<int>>& grid,int x,int y) // other method is using int& cnt 
+    {
+        int n=grid.size();
+        int m=grid[0].size();
+
+        if(!(x>=0 && x<n && y>=0 && y<m && grid[x][y]==1)) return 0;
+        int mx=1; // remeber mx=1 not 0
+        grid[x][y]=2;// remember to chnage here 
+
+        mx+=dfs2(grid,x+1,y);
+        mx+=dfs2(grid,x-1,y);
+        mx+=dfs2(grid,x,y+1);
+        mx+=dfs2(grid,x,y-1);
+        return mx;
+    }
     int maxAreaOfIsland(vector<vector<int>>& grid) {
         int n=grid.size();
         int m=grid[0].size();
@@ -31,9 +46,10 @@ public:
             {
                 if(grid[i][j]==1)
                 {
-                    dfs(grid,i,j);
-                    mx=max(mx,cnt);
-                    cnt=0;
+                    // dfs(grid,i,j);
+                    // mx=max(mx,cnt);
+                    // cnt=0;
+                    mx=max(mx,dfs2(grid,i,j));
                 }
             }
         }
