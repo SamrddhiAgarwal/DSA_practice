@@ -14,7 +14,7 @@ public:
         vector<int> color(n+1,0);
         queue<int>q;
 
-        for(int i=1;i<n;i++)
+        for(int i=1;i<=n;i++)
         {
             if(color[i]==0)
             {
