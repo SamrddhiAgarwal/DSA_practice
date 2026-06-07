@@ -36,6 +36,9 @@ public:
 class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
+        // check befor only no need of calculating extra 
+        int total_conn=connections.size();
+        if(total_conn<n-1) return -1;
         DisjointSet ds(n);
         int extra=0;
         for(auto e:connections)
@@ -47,8 +50,8 @@ public:
             {
                 ds.unionbySize(u,v);
             }
-            else
-            extra++;
+            // else
+            // extra++; 
         }
         int conn=0;
         for(int i=0;i<n;i++)
@@ -56,7 +59,7 @@ public:
             if(ds.findPar(i)==i)
             conn++;
         }
-        
-        return conn-1<=extra ? conn-1 : -1;
+        return conn-1;
+        // return conn-1<=extra ? conn-1 : -1;
     }
 };
