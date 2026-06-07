@@ -41,7 +41,7 @@ public:
         if(total_conn<n-1) return -1;
         DisjointSet ds(n);
         int extra=0;
-        for(auto& e:connections)
+        for(auto& e:connections) // copying by reference inc speed 
         {
             int u=e[0];
             int v=e[1];
