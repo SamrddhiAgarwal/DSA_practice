@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
@@ -98,6 +99,10 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
