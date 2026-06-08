@@ -83,6 +83,9 @@ public:
         
     }
     int makeConnected(int n, vector<vector<int>>& connections) {
+        int total_conn = connections.size();
+        if(total_conn<n-1) return -1;
+
         vector<int> adj[n];
         for(auto& e:connections)
         {
@@ -101,8 +104,9 @@ public:
             dfs(adj,vis,i,-1);
             }
         }
-        int total_conn=connections.size();
-        return total_conn>=n-1? conn-1:-1;
+        return conn-1;
+        // int total_conn=connections.size();
+        // return total_conn>=n-1? conn-1:-1;
         // extra=extra/2;
         // return extra>=conn-1 ? conn-1:-1;
     }
