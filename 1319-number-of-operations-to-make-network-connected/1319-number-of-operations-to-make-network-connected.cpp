@@ -101,7 +101,9 @@ public:
             dfs(adj,vis,i,-1);
             }
         }
-        extra=extra/2;
-        return extra>=conn-1 ? conn-1:-1;
+        int total_conn=connections.size();
+        return total_conn>=n-1? conn-1:-1;
+        // extra=extra/2;
+        // return extra>=conn-1 ? conn-1:-1;
     }
 };
