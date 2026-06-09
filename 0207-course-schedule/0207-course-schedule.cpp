@@ -35,23 +35,27 @@
 
 class Solution {
 public:
-    bool dfs(int v, vector<int>& vis, vector<int> adj[], vector<int>& pvis)
+    // bool dfs(int v, vector<int>& vis, vector<int> adj[], vector<int>& pvis)
+    bool dfs(int v, vector<int>& vis, vector<int> adj[])
     {
         vis[v]=1;
-        pvis[v]=1;
+        // pvis[v]=1;
 
         for(auto& u:adj[v])
         {
             if(!vis[u])
             {
-                if(dfs(u,vis,adj,pvis)) return true;
+                if(dfs(u,vis,adj)) return true;
             }
             
-            else if(pvis[u])
+            // else if(pvis[u])
+            else if(vis[u]==1)
             return true;
         }
-        pvis[v]=0;
+        // pvis[v]=0;
+        vis[v]=2;
         return false;
+        //stack store for toposort but possible nly with cycle check
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<int> adj[numCourses];
@@ -60,15 +64,17 @@ public:
             adj[p[1]].push_back(p[0]);
         }
         vector<int>vis(numCourses,0);
-        vector<int>pvis(numCourses,0);
+        // vector<int>pvis(numCourses,0);
         for(int i=0;i<numCourses;i++)
         {
             if(!vis[i])
             {
-                if(dfs(i,vis,adj,pvis))
+                if(dfs(i,vis,adj))
                 return false;
             }
         }
         return true;
     }
 };
+
+//4 methods dfs recursive 2 methods      bfs kahn algorithm     toposort but cycle check needed 
