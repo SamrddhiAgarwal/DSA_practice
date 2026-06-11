@@ -24,7 +24,7 @@ public:
         {
             double d=pq.top().first;
             // auto [v,parent]=pq.top().second;
-            //no parent needed since pq will already give bigger one and we will go for first value of end so that it don;t form cycle
+            //no parent needed since pq will already give bigger one and we will go for first value of end so that it don;t form cycle and initial is higher for any if we go by cycle since multipyling again and again will only reduce probability since if we could reach at a dist in 0.5 probability next time it will be 0.5*0.5 ie 0.25 reducced 
             int v=pq.top().second;
             pq.pop();
             // if(v==end_node) found=true;
