@@ -14,13 +14,13 @@ public:
             if(indegree[i]==0)
             q.push(i);
         }
-        int cnt=0;
+        // int cnt=0;
         vector<int> ans;
         while(!q.empty())
         {
             int b=q.front();
             q.pop();
-            cnt++;
+            // cnt++;
             ans.push_back(b);
             for(auto &a:adj[b])
             {
@@ -30,7 +30,8 @@ public:
                 q.push(a);
             }
         }
-        if (cnt==numCourses) return ans;
+        // if (cnt==numCourses) return ans;
+        if (ans.size()==numCourses) return ans;
         else return {};
         
     }
