@@ -15,7 +15,7 @@ typedef pair<int,pair<int,int>> p;
             int d=pq.top().first;
             auto [r,c]=pq.top().second;
             pq.pop();
-            if(r==n-1 && c==m-1) return dist[r][c];
+            if(r==n-1 && c==m-1) return d;
             if(dist[r][c]<d) continue;
             for(int i=0;i<4;i++)
             {
@@ -23,9 +23,10 @@ typedef pair<int,pair<int,int>> p;
                 int y=c+dy[i];
                 if(!(x>=0 && x<n && y>=0 && y<m)) continue;
                 int w=abs(heights[x][y]-heights[r][c]);
-                if(dist[x][y]>max(d,w))
+                w=max(w,d);
+                if(dist[x][y]>w)
                 {
-                    dist[x][y]=max(d,w);
+                    dist[x][y]=w;
                     pq.push({dist[x][y],{x,y}});
                 }
             }
