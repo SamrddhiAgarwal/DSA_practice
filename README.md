@@ -18,6 +18,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@
 | [0785-is-graph-bipartite](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
@@ -76,6 +78,7 @@
 | [0207-course-schedule](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Memoization
 |  |
@@ -110,6 +113,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0146-lru-cache) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Linked List
 |  |
 | ------- |
@@ -126,6 +130,10 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
