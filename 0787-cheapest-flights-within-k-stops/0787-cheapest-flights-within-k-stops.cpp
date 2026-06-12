@@ -16,6 +16,7 @@ public:
             auto [stop,v]=pq.top().first;
             int d=pq.top().second;
             pq.pop();
+            if(stop>k) break;
             // if(v==dst) return d;  
             // if(dist[v]<d) continue; shouldn't be as it can give wrong result since we have dist of already smaller but later it's dist change 
             //nput
