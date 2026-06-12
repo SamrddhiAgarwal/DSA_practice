@@ -28,6 +28,7 @@
 | [0198-house-robber](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -39,6 +40,7 @@
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
@@ -58,6 +60,7 @@
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
@@ -77,6 +80,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -152,12 +156,14 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 ## Binary Search
 |  |
