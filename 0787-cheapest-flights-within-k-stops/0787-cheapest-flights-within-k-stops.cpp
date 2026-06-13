@@ -53,7 +53,7 @@ public:
  
             for(auto &[u,w]:adj[v])
             {
-                if(dist[u]>d+w && stop<=k)
+                if(dist[u]>d+w )
                 {
                     dist[u]=d+w;
                     pq.push({{stop+1,u},dist[u]});
