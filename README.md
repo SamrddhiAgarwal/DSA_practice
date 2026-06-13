@@ -29,6 +29,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -85,6 +86,7 @@
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
@@ -94,6 +96,7 @@
 | [0210-course-schedule-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Memoization
@@ -165,6 +168,7 @@
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Binary Search
 |  |
 | ------- |
