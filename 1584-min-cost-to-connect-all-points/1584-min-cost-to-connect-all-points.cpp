@@ -24,7 +24,9 @@ typedef pair<int,pair<int,int>> p;
         int n=points.size();
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
         vector<int> vis(n,0);
+        vector<int>dist(n,INT_MAX);
         pq.push({0,0});
+        dist[0]=0;
         int ans=0;
         while(!pq.empty())
         {
@@ -40,7 +42,12 @@ typedef pair<int,pair<int,int>> p;
                     if(vis[j]==1) continue;
                     
                     int val2= abs(points[i][0]-points[j][0])+abs(points[i][1]-points[j][1]);
-                    pq.push({val2,j});
+                    if(dist[j]>val2)
+                    {
+                        pq.push({val2,j});
+                        dist[j]=val2;
+                    }
+                    
                 }                
             }
         }
