@@ -72,21 +72,41 @@ public:
                 ds.unionBysize(i,mp[c]);
             }
         }
-        vector<vector<string>> lists(n);
-        for(auto it:mp)
+        // vector<vector<string>> lists(n); 
+        // for(auto it:mp)
+        // {
+        //     int i=ds.findPar(it.second);
+        //     lists[i].push_back(it.first);
+        // }
+        // vector<vector<string>> ans;
+        // for(int i=0;i<n;i++)
+        // {
+        //     if(lists[i].empty()) continue;
+        //     vector<string>temp;
+        //     temp.push_back(accounts[i][0]);
+        //     sort(lists[i].begin(),lists[i].end());
+        //     for(auto &e:lists[i])
+        //     temp.push_back(e);
+        //     ans.push_back(temp);
+        // }
+        // alternate method using set to not use sorting later same time complexity
+        unordered_map<int, set<string>> merged_lists;
+        for(auto& it : mp)
         {
-            int i=ds.findPar(it.second);
-            lists[i].push_back(it.first);
+            int leader = ds.findPar(it.second);
+            merged_lists[leader].insert(it.first); // Auto-sorts here!
         }
+        
+        // 3. Build the final answer structure
         vector<vector<string>> ans;
-        for(int i=0;i<n;i++)
+        for(auto& it : merged_lists)
         {
-            if(lists[i].empty()) continue;
-            vector<string>temp;
-            temp.push_back(accounts[i][0]);
-            sort(lists[i].begin(),lists[i].end());
-            for(auto &e:lists[i])
-            temp.push_back(e);
+            int account_idx = it.first;
+            // Get the person's name
+            vector<string> temp = {accounts[account_idx][0]}; 
+            
+            // Push all sorted emails into the vector
+            temp.insert(temp.end(), it.second.begin(), it.second.end());
             ans.push_back(temp);
         }
         return ans;
