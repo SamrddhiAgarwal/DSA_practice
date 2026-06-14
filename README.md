@@ -39,6 +39,7 @@
 | [0207-course-schedule](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0684-redundant-connection](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0785-is-graph-bipartite) |
@@ -59,6 +60,7 @@
 | [0210-course-schedule-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0785-is-graph-bipartite) |
@@ -80,6 +82,7 @@
 | [0207-course-schedule](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0684-redundant-connection](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
