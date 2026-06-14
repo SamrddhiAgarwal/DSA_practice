@@ -152,20 +152,43 @@ public:
         }
         dsu ds(mxr+mxc+1);
         unordered_map<int,int>mp; //for unique all row and stones
+        unordered_set<int>st;
         for(auto& s:stones)
         {
             int r=s[0];
             int c=s[1]+mxr+1;
             ds.unionBysize(r,c);
-            mp[r]=1;
-            mp[c]=1;
+            // mp[r]=1;
+            // mp[c]=1;
+            st.insert(r);
+            st.insert(c);
         }
         int cnt=0;
-        for(auto it:mp)
+        // for(auto it:mp)
+        // {
+        //     if(ds.findPar(it.first)==it.first)
+        //     cnt++;
+        // }
+        for(auto it:st)
         {
-            if(ds.findPar(it.first)==it.first)
+            if(ds.findPar(it)==it)
             cnt++;
         }
+
+        // for(auto s:stones)
+        // {
+        //     int r=s[0];
+        //     int c=s[1]+mxr+1;
+        //     if(ds.findPar(r)==r || ds.findPar(c)==c) cnt++; 
+        // }
+        //this fails since it goes for same row multiple time but we need to check a row single time only 
+
+        // for(auto s:stones)
+        // {
+        //     int r=s[0];
+        //     int c=s[1]+mxr+1;
+        //     if((ds.findPar(r)==r && ds.findPar(r)==r )|| (ds.findPar(r)==c&&ds.findPar(c)==c)) cnt++; 
+        // }
         return n-cnt;
     }
 };
