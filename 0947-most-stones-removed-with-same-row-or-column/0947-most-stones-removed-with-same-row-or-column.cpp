@@ -163,6 +163,13 @@ public:
             st.insert(r);
             st.insert(c);
         }
+        
+        unordered_set<int> s2;
+        for(auto s:stones)
+        {
+            s2.insert(ds.findPar(s[0]));
+        }
+        return n-s2.size();
         int cnt=0;
         // for(auto it:mp)
         // {
