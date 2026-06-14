@@ -44,12 +44,12 @@ public:
         if(size[pu]>size[pv])
         {
             parent[pv]= pu;
-            size[pv]+=size[pu];
+            size[pu]+=size[pv];
         }
         else 
         {
             parent[pu]=pv;
-            size[pu]+=size[pv];
+            size[pv]+=size[pu];
         }
         
     }
@@ -65,7 +65,7 @@ public:
         {
             for(int j=1;j<accounts[i].size();j++)
             {
-                string c=accounts[i][j];
+                string& c=accounts[i][j];
                 if(mp.find(c)==mp.end())
                 mp[c]=i;
                 else
