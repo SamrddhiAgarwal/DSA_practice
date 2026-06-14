@@ -164,12 +164,6 @@ public:
             st.insert(c);
         }
         
-        unordered_set<int> s2;
-        for(auto s:stones)
-        {
-            s2.insert(ds.findPar(s[0]));
-        }
-        return n-s2.size();
         int cnt=0;
         // for(auto it:mp)
         // {
@@ -188,8 +182,14 @@ public:
         //     int c=s[1]+mxr+1;
         //     if(ds.findPar(r)==r || ds.findPar(c)==c) cnt++; 
         // }
-        //this fails since it goes for same row multiple time but we need to check a row single time only 
+        //this fails since it goes for same row multiple time but we need to check a row single time only for s:stones works if we store unique parents like we did above  
 
+        unordered_set<int> s2;
+        for(auto s:stones)
+        {
+            s2.insert(ds.findPar(s[0]));
+        }
+        return n-s2.size();
         // for(auto s:stones)
         // {
         //     int r=s[0];
