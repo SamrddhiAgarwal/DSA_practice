@@ -74,19 +74,28 @@ public:
     bool cycle(vector<vector<int>>& adj,int src,int dst)
     {
         int n=adj.size();
-        queue<pair<int,int>>q;
+        // queue<pair<int,int>>q;
+        queue<int>q;
+        vector<int> vis(n+1,0);
         // no need of vis as for till now we don't have a cycle
-        q.push({src,-1});
-        // vis[src]=1;
+        // q.push({src,-1});
+        q.push(src);
+        vis[src]=1;
         while(!q.empty())
         {
-            auto [v,parent]=q.front();
+            // auto [v,parent]=q.front();
+            int v=q.front();
             q.pop();
             if(v==dst) return true;
             for(auto u:adj[v])
             {
-                if(u!=parent)
-                q.push({u,v});
+                // if(u!=parent)
+                // q.push({u,v});
+                if(!vis[u])
+                {
+                    q.push(u);
+                    vis[u]=1;
+                }
             }
         }
         return false;
