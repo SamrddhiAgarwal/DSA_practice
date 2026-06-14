@@ -79,32 +79,33 @@ public:
     //     }
     //     return n-st.size();
     // }
-int removeStones(vector<vector<int>>& stones) {
-        int n=stones.size();
-        int mx=-1;
-        for(auto s:stones)
-        {
-            mx=max(mx,s[0]);
-        }
-        dsu ds(mx);
-        unordered_map<int,int>mp;
-        for(auto s:stones)
-        {
-            int r=s[0];
-            int c=s[1];
-            if(mp.find(c)==mp.end())
-            mp[c]=r;
-            else
-            ds.unionBysize(r,mp[c]);
+//method 2
+// int removeStones(vector<vector<int>>& stones) {
+//         int n=stones.size();
+//         int mx=-1;
+//         for(auto s:stones)
+//         {
+//             mx=max(mx,s[0]);
+//         }
+//         dsu ds(mx);
+//         unordered_map<int,int>mp;
+//         for(auto s:stones)
+//         {
+//             int r=s[0];
+//             int c=s[1];
+//             if(mp.find(c)==mp.end())
+//             mp[c]=r;
+//             else
+//             ds.unionBysize(r,mp[c]);
 
-        }
-        set<int> st;
-        for(auto it:mp)
-        {
-            st.insert(ds.findPar(it.second));
-        }
-        return n-st.size();
-}
+//         }
+//         set<int> st;
+//         for(auto it:mp)
+//         {
+//             st.insert(ds.findPar(it.second));
+//         }
+//         return n-st.size();
+// }
 
 
 // method -3
@@ -140,37 +141,31 @@ int removeStones(vector<vector<int>>& stones) {
     //     return n-cnt;
     // }
 
-
-    // int removeStones(vector<vector<int>>& stones) {
-    //     int n=stones.size();
-    //     unordered_map<int,vector<int>>mp2;
-    //     for(auto& s:stones)
-    //     {
-    //         int r=s[0];
-    //         int c=s[1];
-    //         mp2[r].push_back(c);
-    //     }
-    //     int sz=mp2.size();
-    //     dsu ds(sz);
-    //     unordered_map<int,int>mp;
-    //     int i=0;
-    //     for(auto it:mp2)
-    //     {
-    //         for(auto c:it.second)
-    //         {
-    //             if(mp.find(c)==mp.end())
-    //             mp[c]=i;
-    //             else
-    //             ds.unionBysize(i,mp[c]);
-    //         }
-    //         i++;
-    //     }
-    //     int cnt=0;
-    //     for(int i=0;i<sz;i++)
-    //     {
-    //         if(ds.findPar(i)==i) cnt++;
-    //     }
-    //     return n-cnt;
-    // }
-    
+//method -4
+    int removeStones(vector<vector<int>>& stones) {
+        int n=stones.size();
+        int mxr=-1,mxc=-1;
+        for(auto& s:stones)
+        {
+            mxr=max(mxr,s[0]);
+            mxc=max(mxc,s[1]);
+        }
+        dsu ds(mxr+mxc+1);
+        unordered_map<int,int>mp; //for unique all row and stones
+        for(auto& s:stones)
+        {
+            int r=s[0];
+            int c=s[1]+mxr+1;
+            ds.unionBysize(r,c);
+            mp[r]=1;
+            mp[c]=1;
+        }
+        int cnt=0;
+        for(auto it:mp)
+        {
+            if(ds.findPar(it.first)==it.first)
+            cnt++;
+        }
+        return n-cnt;
+    }
 };
