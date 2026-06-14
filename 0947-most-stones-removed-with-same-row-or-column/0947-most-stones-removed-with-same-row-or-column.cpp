@@ -59,23 +59,33 @@ class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
         int n=stones.size();
-        dsu ds(10001);
-        unordered_map<int,int>mp;
-        for(auto s:stones)
+        unordered_map<int,vector<int>>mp2;
+        for(auto& s:stones)
         {
             int r=s[0];
             int c=s[1];
-            if(mp.find(c)==mp.end())
-            mp[c]=r;
-            else
-            ds.unionBysize(r,mp[c]);
-
+            mp2[r].push_back(c);
         }
-        set<int> st;
-        for(auto it:mp)
+        int sz=mp2.size();
+        dsu ds(sz);
+        unordered_map<int,int>mp;
+        int i=0;
+        for(auto it:mp2)
         {
-            st.insert(ds.findPar(it.second));
+            for(auto c:it.second)
+            {
+                if(mp.find(c)==mp.end())
+                mp[c]=i;
+                else
+                ds.unionBysize(i,mp[c]);
+            }
+            i++;
         }
-        return n-st.size();
+        int cnt=0;
+        for(int i=0;i<sz;i++)
+        {
+            if(ds.findPar(i)==i) cnt++;
+        }
+        return n-cnt;
     }
 };
