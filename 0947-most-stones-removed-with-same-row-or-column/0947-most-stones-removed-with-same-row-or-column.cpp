@@ -59,7 +59,7 @@ class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
         int n=stones.size();
-        dsu ds(100001);
+        dsu ds(10001);
         unordered_map<int,int>mp;
         for(auto s:stones)
         {
