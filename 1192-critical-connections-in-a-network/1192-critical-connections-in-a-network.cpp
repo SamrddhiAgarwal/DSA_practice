@@ -40,3 +40,8 @@ public:
         return ans;
     }
 };
+// we can do this also instead of using ans in dfs using check condition later
+// for(auto& y : connections){
+//             int u  = y[0];
+//             int v  = y[1];
+//             if(dis[u]<low[v] || dis[v]<low[u]) ans.push_back({u,v});
