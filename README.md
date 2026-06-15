@@ -51,6 +51,7 @@
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
@@ -93,6 +94,7 @@
 | [0802-find-eventual-safe-states](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -195,6 +197,10 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
