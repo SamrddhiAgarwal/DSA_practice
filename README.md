@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0485-max-consecutive-ones](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0485-max-consecutive-ones) |
@@ -219,6 +220,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
