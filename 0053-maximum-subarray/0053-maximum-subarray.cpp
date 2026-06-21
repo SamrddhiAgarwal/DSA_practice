@@ -27,8 +27,8 @@ public:
         for(int i=1;i<n;i++)
         {
             sum[i]=sum[i-1]+nums[i]; //sm+=arr[i];
-            mx=max(mx,sum[i]-ms);
-            ms=min(ms,sum[i]);
+            mx=max(mx,sum[i]-ms); //mx;
+            ms=min(ms,sum[i]);// min taken will be 0 if all possitve other wise negative will come since subarray of later subarray are subtracted dur to being negative that otal sum had already been less than 0 and giving negative impact so it needed to be added when we are doing mx and it thus negative negative is positive
         }
         return mx;
     }
