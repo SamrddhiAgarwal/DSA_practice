@@ -25,21 +25,32 @@ public:
     //     return ans;
     //     // n^2 ,n
     // }
+    // vector<vector<int>> generate(int numRows) {
+    //     vector<vector<int>> ans;
+    //     vector<int>temp;
+    //     for (int row = 1; row <= numRows; row++) 
+    //     {
+      
+    //         int c = 1; 
+    //         for (int i = 1; i <= row; i++) {
+
+    //             temp.push_back(c);
+    //             c = c * (row - i) / i;
+    //         }
+    //         ans.push_back(temp);
+    //         temp.clear();
+    //     }
+    //     return ans;
+    // }
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> ans;
-        vector<int>temp;
-        for (int row = 1; row <= numRows; row++) 
-        {
-      
-            int c = 1; 
-            for (int i = 1; i <= row; i++) {
-
-                temp.push_back(c);
-                c = c * (row - i) / i;
+        for(int i=0;i<numRows;i++){
+            vector<int> row(i+1, 1);
+            for(int j=1;j<i;j++){
+                row[j] = ans[i-1][j-1] + ans[i-1][j];
             }
-            ans.push_back(temp);
-            temp.clear();
-        }
+            ans.push_back(row);
+        }   
         return ans;
     }
 };
