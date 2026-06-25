@@ -25,9 +25,7 @@ public:
             else if(nums[i]==a)
             {
                 c1++;
-                // continue;
             }
-            // else if(c2==-1 && nums[i]!=a)
             else if(c2==-1 )
             {
                 c2=1;
