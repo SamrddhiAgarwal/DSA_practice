@@ -7,9 +7,10 @@ public:
         if(numRows>1)
         ans.push_back({1,1});
         int k=2;
+        vector<int> temp;
         while(numRows>k)
         {
-            vector<int> temp;
+            // vector<int> temp;
             temp.push_back(1);
             int n=ans.back().size();
             for(int i=0;i<n-1;i++)
@@ -18,8 +19,27 @@ public:
             }
             temp.push_back(1);
             ans.push_back(temp);
+            temp.clear();
             k++;
         }
         return ans;
+        // n^2 ,n
     }
+    // vector<vector<int>> generate(int numRows) {
+    //     vector<vector<int>> ans;
+    //     vector<int>temp;
+    //     for (int row = 1; row <= numRows; row++) 
+    //     {
+      
+    //         int c = 1; 
+    //         for (int i = 1; i <= row; i++) {
+
+    //             temp.push_back(c);
+    //             c = c * (row - i) / i;
+    //         }
+    //         ans.push_back(temp);
+    //         temp.clear();
+    //     }
+    //     return ans;
+    // }
 };
