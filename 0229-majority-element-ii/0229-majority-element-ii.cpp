@@ -5,7 +5,7 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++)
         {
-            if(c1==0 && nums[i]!=b)
+            if(c1==0 && c2!=-1 && nums[i]!=b )
             {
                 
                 c1=1;
@@ -25,8 +25,10 @@ public:
             else if(nums[i]==a)
             {
                 c1++;
+                // continue;
             }
-            else if(c2==-1 && nums[i]!=a)
+            // else if(c2==-1 && nums[i]!=a)
+            else if(c2==-1 )
             {
                 c2=1;
                 b=nums[i];
