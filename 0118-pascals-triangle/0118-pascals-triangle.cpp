@@ -11,11 +11,10 @@ public:
         {
             vector<int> temp;
             temp.push_back(1);
-            vector<int> last=ans.back();
-            int n=last.size();
+            int n=ans.back().size();
             for(int i=0;i<n-1;i++)
             {
-                temp.push_back(last[i]+last[i+1]);
+                temp.push_back(ans.back()[i]+ans.back()[i+1]);
             }
             temp.push_back(1);
             ans.push_back(temp);
