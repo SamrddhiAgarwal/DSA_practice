@@ -32,6 +32,7 @@
 | [0909-snakes-and-ladders](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0909-snakes-and-ladders) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -183,6 +184,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1207-unique-number-of-occurrences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1207-unique-number-of-occurrences) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Linked List
 |  |
