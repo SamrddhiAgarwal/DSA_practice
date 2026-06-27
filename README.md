@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0485-max-consecutive-ones](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
 ## Minimum Spanning Tree
@@ -271,11 +273,28 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
