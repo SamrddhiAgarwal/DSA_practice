@@ -1,81 +1,55 @@
 class Solution {
 public:
-    void merge(vector<int> &arr, int low, int mid, int high) {
-    // Temporary array to store merged elements
-    vector<int> temp;
-
-    // Starting index of left half
-    int left = low;
-    // Starting index of right half
-    int right = mid + 1;
-
-    // Merge elements in sorted order and count inversions
-    while (left <= mid && right <= high) {
-        if (arr[left] <= arr[right]) {
-            temp.push_back(arr[left]);
-            left++;
-        } else {
-            temp.push_back(arr[right]);
-            right++;
+    void merge(vector<int>& arr,int l,int mid,int r){
+            int n;
+            n=r-l+1;
+            int temp[n];
+            int left=l;
+            int right=mid+1;
+            int k=0;
+            while(left<=mid && right<=r){
+                if(arr[left]<=arr[right]){
+                    temp[k++]=arr[left++];
+                }
+                else{
+                    temp[k++]=arr[right++];
+                }
+            }
+            while(left<=mid){
+                temp[k++]=arr[left++];
+            }
+            while(right<=r){
+                temp[k++]=arr[right++];
+            }
+            for(int i=0;i<n;i++){
+                arr[i+l]=temp[i];
+            }
         }
+    int countpairs(vector<int>&arr,int low,int mid,int high){
+            int right=mid+1;
+            int cnt=0;
+            for(int i=low;i<=mid;i++){
+                while(right<=high && arr[i]>2LL*arr[right]){
+                    right++;
+                }
+                cnt+=(right-(mid+1));
+            }
+            return cnt;
+        }
+    int mergeSort(vector<int>& arr, int l, int r) {
+        int cnt=0;
+        if(l>=r){
+            return cnt;
+        }
+        int mid=(l+r)/2;
+        cnt+=mergeSort(arr,l,mid);
+        cnt+=mergeSort(arr,mid+1,r);
+        cnt+=countpairs(arr,l,mid,r);
+        merge(arr,l,mid,r);
+        return cnt;
     }
-
-    // If left half still has elements
-    while (left <= mid) {
-        temp.push_back(arr[left]);
-        left++;
-    }
-
-    // If right half still has elements
-    while (right <= high) {
-        temp.push_back(arr[right]);
-        right++;
-    }
-
-    // Copy back to original array
-    for (int i = low; i <= high; i++) {
-        arr[i] = temp[i - low];
-    }
-
-    // Return inversion count
-}
-int CountPairs(vector<int> &arr, int low, int mid, int high)
-{
-    int cnt = 0,right=mid+1;
-    for(int i=low;i<=mid;i++)
-    {
-        while(right<=high && arr[i]>(2LL*arr[right])) right++;// 2LL is used 
-        cnt+=right-(mid+1);
-    }
-    return cnt;
-}
-
-// Merge sort function that counts inversions
-int mergeSort(vector<int> &arr, int low, int high) {
-    // Variable to store inversion count
-    int cnt = 0;
-
-    // Base case
-    if (low >= high) return cnt;
-
-    int mid = (low + high) / 2;
-
-    // Count inversions in left half
-    cnt += mergeSort(arr, low, mid);
-    // Count inversions in right half
-    cnt += mergeSort(arr, mid + 1, high);
-    // Count inversions during merge
-    cnt += CountPairs(arr, low, mid, high);
-    merge(arr, low, mid, high);
-
-    return cnt;
-}
-
-// Function to get number of inversions
-
-
-    int reversePairs(vector<int>& nums) {
-        
-       return mergeSort(nums,0,nums.size()-1) ;
+    int reversePairs(vector<int>& arr) {
+        int n=arr.size();
+        return mergeSort(arr,0,n-1);
     }
 };
