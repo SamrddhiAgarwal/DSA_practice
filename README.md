@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0073-set-matrix-zeroes) |
@@ -180,6 +181,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0146-lru-cache) |
