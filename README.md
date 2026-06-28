@@ -30,6 +30,7 @@
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
@@ -309,6 +310,10 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
