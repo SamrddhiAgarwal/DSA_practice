@@ -23,6 +23,7 @@
 | [0238-product-of-array-except-self](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0414-third-maximum-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0485-max-consecutive-ones) |
@@ -204,6 +205,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
@@ -291,10 +294,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
