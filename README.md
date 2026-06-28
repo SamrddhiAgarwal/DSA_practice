@@ -21,6 +21,7 @@
 | [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
@@ -232,6 +233,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -313,7 +315,16 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0643-maximum-average-subarray-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
