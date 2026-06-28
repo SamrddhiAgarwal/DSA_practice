@@ -1,12 +1,14 @@
 class NumArray {
 public:
-    unordered_map<int,int>mp;
+    vector<int>mp;
     NumArray(vector<int>& nums) {
-        int s=0;
-        for(int i=0;i<nums.size();i++)
+        int n=nums.size();
+        mp.resize(n,0);
+        mp[0]=nums[0];
+        for(int i=1;i<nums.size();i++)
         {
-            s+=nums[i];
-            mp[i]=s;
+            
+            mp[i]=mp[i-1]+nums[i];
         }
     }
     
