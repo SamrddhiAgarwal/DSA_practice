@@ -27,6 +27,7 @@
 | [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0414-third-maximum-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
@@ -59,6 +60,7 @@
 | [0152-maximum-product-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -223,6 +225,7 @@
 | [0229-majority-element-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 ## String
 |  |
@@ -325,6 +328,10 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
