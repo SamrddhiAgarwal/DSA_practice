@@ -7,15 +7,15 @@ public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
         sort(intervals.begin(),intervals.end(),comparator);
         int cnt=0;
-        vector<int> current;
-        current =intervals[0];
+        int current;
+        current =intervals[0][1];
         
         for(auto v:intervals)
         {
-            if( current[1]<=v[0] )
+            if( current<=v[0] )
             {
                 
-                current =v;
+                current =v[1];
             }
             else 
             cnt++;
