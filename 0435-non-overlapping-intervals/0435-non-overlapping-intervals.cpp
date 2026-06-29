@@ -10,7 +10,7 @@ public:
         int current;
         current =intervals[0][1];
         
-        for(auto v:intervals)
+        for(auto& v:intervals)
         {
             if( current<=v[0] )
             {
