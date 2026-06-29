@@ -8,10 +8,11 @@ public:
         sort(intervals.begin(),intervals.end(),comparator);
         int cnt=0;
         vector<int> current;
+        current =intervals[0];
         
         for(auto v:intervals)
         {
-            if(current.empty()|| current[1]<=v[0] )
+            if( current[1]<=v[0] )
             {
                 
                 current =v;
@@ -19,6 +20,6 @@ public:
             else 
             cnt++;
         }
-        return cnt;
+        return cnt-1;
     }
 };
