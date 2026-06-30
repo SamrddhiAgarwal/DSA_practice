@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0056-merge-intervals) |
@@ -252,6 +253,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0778-swim-in-rising-water) |
