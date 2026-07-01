@@ -32,6 +32,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0643-maximum-average-subarray-i) |
@@ -258,6 +259,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
 ## Minimum Spanning Tree
