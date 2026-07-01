@@ -17,6 +17,7 @@
 | [0118-pascals-triangle](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0778-swim-in-rising-water) |
