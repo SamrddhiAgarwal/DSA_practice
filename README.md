@@ -41,6 +41,7 @@
 | [0733-flood-fill](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0909-snakes-and-ladders) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -261,6 +262,7 @@
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
 ## Minimum Spanning Tree
 |  |
