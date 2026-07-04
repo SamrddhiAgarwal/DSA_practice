@@ -3,7 +3,7 @@ public:
     string removeOuterParentheses(string s) {
         int a=0;
         string ns="";
-        for(auto c:s)
+        for(auto& c:s)
         {
             if(c=='(')
             {
@@ -11,7 +11,7 @@ public:
                 if(a==1)
                 continue;
             }
-            if(c==')')
+            else
             {
                 a--;
                 if(a==0)
