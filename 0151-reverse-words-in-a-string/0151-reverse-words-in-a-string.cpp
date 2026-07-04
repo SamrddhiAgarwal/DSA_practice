@@ -2,7 +2,7 @@ class Solution {
 public:
     string reverseWords(string s) {
         int n= s.length();int j=0,i;
-        string temp="",word="";
+        string word="";
         for( i=0;i<n;i++)
         {
             if(s[i]==' ')
@@ -22,8 +22,6 @@ public:
                 }
                 j=i+1;
             }
-            else
-            temp=temp+s[i];
         }
         if(i-j!=0)
         {
