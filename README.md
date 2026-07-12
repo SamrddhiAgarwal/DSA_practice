@@ -236,6 +236,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
@@ -298,6 +299,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
@@ -359,6 +361,10 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
