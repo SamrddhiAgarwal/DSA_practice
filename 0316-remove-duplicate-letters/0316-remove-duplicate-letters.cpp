@@ -14,17 +14,10 @@ public:
         for(int i=1;i<l;i++)
         {
             if(used[s[i]-'a']) continue;
-            while(!ns.empty() && s[i]<ns.back())
+            while(!ns.empty() && s[i]<ns.back() && last_pos[ns.back()-'a']>i)
             {
-                if(last_pos[ns.back()-'a']>i)
-                {
-                    used[ns.back()-'a']=false;
-                    ns.pop_back();
-                    
-                }
-                
-                else
-                break;
+                used[ns.back()-'a']=false;
+                ns.pop_back();
             }
             ns+=s[i];
             used[s[i]-'a']=true;
