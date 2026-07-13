@@ -34,8 +34,8 @@ public:
         //     ans=max(ans,maxOperations+freq);
         // }
         for(int target=0; target<mx+k+1; target++){
-            if(cumFreq[target]==0)
-                continue;
+            // if(cumFreq[target]==0)
+            //     continue;
             
             int left=max(0,target-k);
             int right=min(mx+k,target+k);
