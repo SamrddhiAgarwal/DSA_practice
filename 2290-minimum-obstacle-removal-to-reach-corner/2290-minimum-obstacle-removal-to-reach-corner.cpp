@@ -10,11 +10,12 @@ public:
         priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
         
         // Distance/Visited array to store minimum obstacles removed to reach cell (i, j)
-        vector<vector<int>> dist(n, vector<int>(m, 1e9)); 
+        vector<vector<int>> vis(n, vector<int>(m, 0)); 
         
         // Start from top-left corner
+        
         pq.push({grid[0][0], 0, 0});
-        dist[0][0] = grid[0][0];
+        vis[0][0] = 1;
         
         int dx[] = {-1, 0, 1, 0};
         int dy[] = {0, -1, 0, 1};
@@ -31,7 +32,6 @@ public:
             if(i == n - 1 && j == m - 1) return rem;
             
             // If we found a worse path than a previously processed one, skip it
-            if(rem > dist[i][j]) continue;
             
             for(int d = 0; d < 4; d++) {
                 int nx = i + dx[d];
@@ -43,8 +43,8 @@ public:
                     int next_rem = rem + grid[nx][ny];
                     
                     // Relaxation step: only push if we found a strictly better path
-                    if(next_rem < dist[nx][ny]) {
-                        dist[nx][ny] = next_rem;
+                    if(!vis[nx][ny]) {
+                        vis[nx][ny] = 1;
                         pq.push({next_rem, nx, ny});
                     }
                 }
