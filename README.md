@@ -57,6 +57,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Dynamic Programming
@@ -126,6 +127,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Graph Theory
 |  |
@@ -146,6 +148,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
@@ -179,6 +182,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Union-Find
 |  |
@@ -258,6 +262,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
 | ------- |
@@ -265,6 +270,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Binary Search
 |  |
 | ------- |
