@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0152-maximum-product-subarray) |
@@ -300,6 +301,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -396,6 +398,10 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
