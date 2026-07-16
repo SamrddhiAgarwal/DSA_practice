@@ -252,6 +252,7 @@
 | [0127-word-ladder](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
+| [0459-repeated-substring-pattern](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0459-repeated-substring-pattern) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -386,6 +387,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0459-repeated-substring-pattern) |
 ## Rolling Hash
 |  |
 | ------- |
