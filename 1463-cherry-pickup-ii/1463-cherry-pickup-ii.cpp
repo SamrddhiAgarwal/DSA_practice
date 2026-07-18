@@ -36,15 +36,18 @@ public:
     int cherryPickup(vector<vector<int>>& grid) {
         int n = grid.size();
         int m=grid[0].size(); 
-        vector<vector<vector<int>>> dp(n,
-            vector<vector<int>>(m, vector<int>(m, -1)));
+        // vector<vector<vector<int>>> dp(n,
+        //     vector<vector<int>>(m, vector<int>(m, -1)));
+            vector<vector<int>> dp(m, vector<int>(m, -1));
+            vector<vector<int>> newdp(m, vector<int>(m, -1));
         // return helper(0, 0, m - 1, dp, grid);
         for(int j1=m-1;j1>=0;j1--)
         {
             for(int j2=0;j2<m;j2++)
             {
             
-                dp[n-1][j1][j2]=(j1==j2)?grid[n-1][j1]:grid[n-1][j1]+grid[n-1][j2];
+                // dp[n-1][j1][j2]=(j1==j2)?grid[n-1][j1]:grid[n-1][j1]+grid[n-1][j2];
+                dp[j1][j2]=(j1==j2)?grid[n-1][j1]:grid[n-1][j1]+grid[n-1][j2];
                     
             }
         }
@@ -63,13 +66,15 @@ public:
                         {
                             int nj1=j1+dj1,nj2=j2+dj2;
                             if(nj1<0||nj2<0||nj1>=m||nj2>=m) continue;
-                            mx=max(mx,curr+dp[i+1][nj1][nj2]);
+                            // mx=max(mx,curr+dp[i+1][nj1][nj2]);
+                            mx=max(mx,curr+dp[nj1][nj2]);
                         }
                     }
-                    dp[i][j1][j2]=mx;
+                    newdp[j1][j2]=mx;
                 }
             }
+            dp=newdp;
         }
-        return dp[0][0][m-1];
+        return dp[0][m-1];
     }
 };
