@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -286,6 +287,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0864-shortest-path-to-get-all-keys) |
 ## Prefix Sum
 |  |
@@ -330,6 +333,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
