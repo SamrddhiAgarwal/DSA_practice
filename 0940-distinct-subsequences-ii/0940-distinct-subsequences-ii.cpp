@@ -8,6 +8,7 @@ public:
         for(int i=0;i<n;i++)
         {
             int cur=((2*res)%mod-(last[s[i]-'a']))%mod;
+            // int cur=((2LL*res)-(last[s[i]-'a'])+mod)%mod;  Preventing Negative Results (+ mod)2. Avoiding Integer Overflow (2LL)
             last[s[i]-'a']=res ;
             res=cur;
         }
