@@ -79,6 +79,7 @@
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0940-distinct-subsequences-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 | [1463-cherry-pickup-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -260,6 +261,7 @@
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [0459-repeated-substring-pattern](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0459-repeated-substring-pattern) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
+| [0940-distinct-subsequences-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
