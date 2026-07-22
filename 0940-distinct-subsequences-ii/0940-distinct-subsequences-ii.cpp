@@ -7,11 +7,10 @@ public:
         int res=1;
         for(int i=0;i<n;i++)
         {
-            int cur=((2LL*res)-(last[s[i]-'a'])+mod)%mod;
+            int cur=((2LL*res)-(last[s[i]-'a']))%mod;
             last[s[i]-'a']=res ;
             res=cur;
         }
-        if(res-1==-1) return mod-1;
-        return res-1;
+        return (res-1+mod)%mod;
     }
 };
