@@ -40,6 +40,7 @@
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0724-find-pivot-index) |
@@ -78,6 +79,7 @@
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
@@ -389,6 +391,7 @@
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Stack
 |  |
 | ------- |
