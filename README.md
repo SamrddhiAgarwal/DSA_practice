@@ -425,6 +425,18 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
