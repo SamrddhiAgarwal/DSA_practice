@@ -7,13 +7,14 @@ public:
     bool isSubsequence(string& a, string& b)
     {
         int i=0,j=0;
-        while (i < a.length() && j < b.length()) {
+        int n1=a.length(),n2=b.length();
+        while (i < n1 && j < n2) {
             if (a[i] == b[j]) {
                 i++;
             }
             j++;
         }
-        return i == a.length();
+        return i == n1;
     
     }
     int findLUSlength(vector<string>& strs) {
