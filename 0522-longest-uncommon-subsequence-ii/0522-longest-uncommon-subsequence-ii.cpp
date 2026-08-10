@@ -1,10 +1,10 @@
 class Solution {
 public:
-    static bool comparator(string a, string b)
+    static bool comparator(string& a, string& b)
     {
         return a.length()>b.length();
     }
-    bool isSubsequence(string a, string b)
+    bool isSubsequence(string& a, string& b)
     {
         int i=0,j=0;
         while (i < a.length() && j < b.length()) {
