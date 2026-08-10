@@ -37,6 +37,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
@@ -226,6 +227,7 @@
 | [0169-majority-element](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -258,6 +260,7 @@
 | [0368-largest-divisible-subset](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -270,6 +273,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [0459-repeated-substring-pattern](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0459-repeated-substring-pattern) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
@@ -347,6 +351,7 @@
 | [0088-merge-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0287-find-the-duplicate-number) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
