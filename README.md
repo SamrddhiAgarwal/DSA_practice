@@ -55,6 +55,7 @@
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1207-unique-number-of-occurrences) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1463-cherry-pickup-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -243,6 +244,7 @@
 | [0146-lru-cache](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -409,6 +411,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
