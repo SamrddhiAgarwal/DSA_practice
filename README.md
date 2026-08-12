@@ -62,6 +62,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -289,6 +290,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1642-furthest-building-you-can-reach) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
@@ -406,6 +408,7 @@
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1642-furthest-building-you-can-reach](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1642-furthest-building-you-can-reach) |
 ## Stack
 |  |
 | ------- |
