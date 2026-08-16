@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0073-set-matrix-zeroes) |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0115-distinct-subsequences) |
@@ -407,6 +409,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
