@@ -74,6 +74,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3840-house-robber-v](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3840-house-robber-v) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3840-house-robber-v](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3840-house-robber-v) |
 ## Depth-First Search
 |  |
 | ------- |
