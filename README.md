@@ -57,6 +57,7 @@
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1207-unique-number-of-occurrences) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1306-jump-game-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1306-jump-game-iii) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1463-cherry-pickup-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1463-cherry-pickup-ii) |
@@ -295,6 +296,7 @@
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
@@ -351,6 +353,7 @@
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0864-shortest-path-to-get-all-keys) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -473,6 +476,10 @@
 | ------- |
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
 | [0687-longest-univalue-path](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0687-longest-univalue-path) |
+## Backtracking
+|  |
+| ------- |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
