@@ -179,6 +179,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -484,6 +485,10 @@
 |  |
 | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Enumeration
+|  |
+| ------- |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
