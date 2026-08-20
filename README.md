@@ -79,6 +79,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0062-unique-paths) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
@@ -437,6 +439,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -496,6 +499,10 @@
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0899-orderly-queue) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
