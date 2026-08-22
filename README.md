@@ -104,6 +104,7 @@
 | [1463-cherry-pickup-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1824-minimum-sideway-jumps](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1824-minimum-sideway-jumps) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -184,6 +185,7 @@
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -195,6 +197,7 @@
 | [0210-course-schedule-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0802-find-eventual-safe-states) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -318,6 +321,7 @@
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1642-furthest-building-you-can-reach) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
@@ -325,6 +329,7 @@
 | [0743-network-delay-time](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Binary Search
@@ -512,6 +517,10 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0334-increasing-triplet-subsequence) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
