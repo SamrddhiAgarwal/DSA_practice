@@ -33,6 +33,7 @@
 | [0303-range-sum-query-immutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0414-third-maximum-number) |
@@ -434,6 +435,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -506,6 +508,10 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0032-longest-valid-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
