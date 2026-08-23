@@ -72,6 +72,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1642-furthest-building-you-can-reach) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -461,6 +462,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1642-furthest-building-you-can-reach](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1642-furthest-building-you-can-reach) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1824-minimum-sideway-jumps](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1824-minimum-sideway-jumps) |
 ## Stack
 |  |
@@ -471,10 +473,12 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1673-find-the-most-competitive-subsequence) |
 ## String Matching
 |  |
 | ------- |
