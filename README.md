@@ -72,6 +72,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1642-furthest-building-you-can-reach) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -356,6 +357,7 @@
 | [0875-koko-eating-bananas](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0875-koko-eating-bananas) |
 | [1562-find-latest-group-of-size-m](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1562-find-latest-group-of-size-m) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Minimum Spanning Tree
 |  |
@@ -387,6 +389,7 @@
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0724-find-pivot-index) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
 |  |
@@ -399,6 +402,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
