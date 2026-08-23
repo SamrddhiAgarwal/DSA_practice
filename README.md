@@ -91,6 +91,7 @@
 | [0045-jump-game-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0062-unique-paths) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -499,16 +500,19 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0687-longest-univalue-path) |
@@ -520,6 +524,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Enumeration
 |  |
