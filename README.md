@@ -100,6 +100,7 @@
 | [0213-house-robber-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
@@ -374,6 +375,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
+| [0343-integer-break](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0368-largest-divisible-subset) |
 | [0899-orderly-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0899-orderly-queue) |
 ## Bit Manipulation
