@@ -274,6 +274,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0146-lru-cache) |
 ## Design
 |  |
