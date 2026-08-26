@@ -33,6 +33,7 @@
 | [0303-range-sum-query-immutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0376-wiggle-subsequence) |
@@ -460,6 +461,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
+| [0330-patching-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
