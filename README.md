@@ -59,6 +59,7 @@
 | [0909-snakes-and-ladders](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0909-snakes-and-ladders) |
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1207-unique-number-of-occurrences) |
@@ -365,6 +366,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0778-swim-in-rising-water](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1562-find-latest-group-of-size-m](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1562-find-latest-group-of-size-m) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
