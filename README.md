@@ -145,6 +145,7 @@
 | [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1192-critical-connections-in-a-network](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1192-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -522,6 +523,7 @@
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0687-longest-univalue-path) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -534,6 +536,7 @@
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0687-longest-univalue-path) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## DP on Trees
 |  |
 | ------- |
