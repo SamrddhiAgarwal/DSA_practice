@@ -83,6 +83,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1824-minimum-sideway-jumps](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1824-minimum-sideway-jumps) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -316,6 +317,7 @@
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0899-orderly-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0899-orderly-queue) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
 |  |
@@ -487,6 +489,7 @@
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1642-furthest-building-you-can-reach](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1824-minimum-sideway-jumps](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1824-minimum-sideway-jumps) |
 ## Stack
 |  |
