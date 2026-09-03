@@ -285,6 +285,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1562-find-latest-group-of-size-m](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1562-find-latest-group-of-size-m) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Linked List
 |  |
@@ -340,6 +341,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
@@ -432,6 +434,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -444,6 +447,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0229-majority-element-ii) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -563,10 +567,12 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Enumeration
 |  |
 | ------- |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Lexicographically Minimal String Rotation
 |  |
 | ------- |
