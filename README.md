@@ -103,6 +103,7 @@
 | [0115-distinct-subsequences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0132-palindrome-partitioning-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0213-house-robber-ii) |
@@ -326,6 +327,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [0459-repeated-substring-pattern](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0459-repeated-substring-pattern) |
