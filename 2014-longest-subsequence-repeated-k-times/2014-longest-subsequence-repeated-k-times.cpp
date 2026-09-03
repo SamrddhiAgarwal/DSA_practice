@@ -88,8 +88,9 @@ public:
             return;
         
         // Update result if 'curr' is longer, or same length but lexicographically larger
-        if((curr.length() > result.length() || (curr.length() == result.length() && curr > result))
-            && isSubsequence(s, curr, k)) {
+        if(!isSubsequence(s, curr, k)) return;
+        if(curr.length() > result.length() ||(curr.length() == result.length() && curr > result) ) 
+        {
                 result = curr;
         }
 
