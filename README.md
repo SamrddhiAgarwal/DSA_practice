@@ -606,6 +606,10 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
