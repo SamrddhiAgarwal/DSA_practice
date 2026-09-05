@@ -129,6 +129,7 @@
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1824-minimum-sideway-jumps](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1824-minimum-sideway-jumps) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [1987-number-of-unique-good-subsequences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1987-number-of-unique-good-subsequences) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3840-house-robber-v](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3840-house-robber-v) |
 ## Depth-First Search
@@ -342,6 +343,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1987-number-of-unique-good-subsequences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1987-number-of-unique-good-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
