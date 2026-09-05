@@ -87,6 +87,7 @@
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1824-minimum-sideway-jumps](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1824-minimum-sideway-jumps) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -512,12 +513,14 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## String Matching
 |  |
 | ------- |
