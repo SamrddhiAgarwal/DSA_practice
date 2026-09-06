@@ -22,3 +22,6 @@ GROUP BY s.user_id
     --     0
     -- )
     -- instead of count can use avg
+    
+
+    -- coalesce is for mulgiple ifnull is for 2 only and use case rathe than sum
