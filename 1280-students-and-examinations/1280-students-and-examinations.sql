@@ -5,3 +5,5 @@ LEFT JOIN Examinations e
 ON e.student_id=st.student_id AND  e.subject_name=s.subject_name
 GROUP BY st.student_id, s.subject_name,st.student_name
 ORDER BY st.student_id ,s.subject_name
+-- group by mein st, s hi use use karenge and student name bhi kyunki hume nill wale bhi chehiye 
+-- count mein * nhi use karenge kyukni phir woh null ko 1 count kardega 
