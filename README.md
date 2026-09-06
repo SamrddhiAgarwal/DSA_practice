@@ -135,6 +135,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0207-course-schedule) |
@@ -509,6 +510,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
@@ -545,6 +547,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
@@ -559,6 +562,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
