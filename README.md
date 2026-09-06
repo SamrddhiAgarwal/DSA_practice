@@ -113,6 +113,7 @@
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
@@ -405,6 +406,7 @@
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0899-orderly-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0899-orderly-queue) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 ## Bit Manipulation
@@ -631,6 +633,14 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
