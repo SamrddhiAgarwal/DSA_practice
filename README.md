@@ -138,6 +138,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0210-course-schedule-ii) |
@@ -169,6 +170,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0127-word-ladder](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0127-word-ladder) |
+| [0199-binary-tree-right-side-view](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0210-course-schedule-ii) |
@@ -556,6 +558,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0687-longest-univalue-path) |
@@ -572,6 +575,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0687-longest-univalue-path) |
