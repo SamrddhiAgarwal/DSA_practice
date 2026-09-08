@@ -68,6 +68,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1306-jump-game-iii) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1463-cherry-pickup-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
@@ -128,6 +129,7 @@
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1220-count-vowels-permutation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1220-count-vowels-permutation) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1463-cherry-pickup-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -516,6 +518,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
