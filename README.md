@@ -123,6 +123,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1027-longest-arithmetic-subsequence) |
+| [1220-count-vowels-permutation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1220-count-vowels-permutation) |
 | [1463-cherry-pickup-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
