@@ -70,6 +70,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1463-cherry-pickup-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [1514-path-with-maximum-probability](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1514-path-with-maximum-probability) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -125,6 +126,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1220-count-vowels-permutation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1220-count-vowels-permutation) |
 | [1463-cherry-pickup-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1463-cherry-pickup-ii) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -507,6 +509,7 @@
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1642-furthest-building-you-can-reach](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1642-furthest-building-you-can-reach) |
@@ -525,6 +528,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -533,6 +537,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## String Matching
