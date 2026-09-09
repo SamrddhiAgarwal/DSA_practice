@@ -92,6 +92,7 @@
 | [1824-minimum-sideway-jumps](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1824-minimum-sideway-jumps) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -141,6 +142,7 @@
 | [1824-minimum-sideway-jumps](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1824-minimum-sideway-jumps) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1987-number-of-unique-good-subsequences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1987-number-of-unique-good-subsequences) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3840-house-robber-v](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3840-house-robber-v) |
 ## Depth-First Search
@@ -340,6 +342,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
 |  |
@@ -407,6 +410,7 @@
 | [1562-find-latest-group-of-size-m](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1562-find-latest-group-of-size-m) |
 | [1631-path-with-minimum-effort](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1631-path-with-minimum-effort) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Minimum Spanning Tree
 |  |
@@ -435,6 +439,7 @@
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -462,6 +467,7 @@
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -493,6 +499,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0493-reverse-pairs) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -698,10 +705,12 @@
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
