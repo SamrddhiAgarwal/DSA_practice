@@ -86,6 +86,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1824-minimum-sideway-jumps](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1824-minimum-sideway-jumps) |
@@ -135,6 +136,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1824-minimum-sideway-jumps](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1824-minimum-sideway-jumps) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -336,6 +338,7 @@
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0899-orderly-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0899-orderly-queue) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
@@ -431,6 +434,7 @@
 | [0864-shortest-path-to-get-all-keys](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -456,6 +460,7 @@
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Divide and Conquer
 |  |
@@ -689,6 +694,14 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
