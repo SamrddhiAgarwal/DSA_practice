@@ -69,6 +69,7 @@ public:
                     // ans = min(ans, llabs(2*(x + *it - goal))); // since number before has less diatnce than number greater than it 
                     ans = min(ans, llabs(2 * (x + *it) - total));
                 }
+                if(ans==0) return 0; //prunning
             }
         }
 
