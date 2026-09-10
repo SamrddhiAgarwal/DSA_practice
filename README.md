@@ -58,6 +58,7 @@
 | [0827-making-a-large-island](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0827-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0909-snakes-and-ladders) |
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
@@ -307,6 +308,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0805-split-array-with-same-average](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0805-split-array-with-same-average) |
+| [0904-fruit-into-baskets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1207-unique-number-of-occurrences) |
@@ -518,6 +520,7 @@
 | [0239-sliding-window-maximum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0904-fruit-into-baskets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
