@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0073-set-matrix-zeroes) |
@@ -624,6 +625,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -723,6 +725,10 @@
 | [0805-split-array-with-same-average](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
