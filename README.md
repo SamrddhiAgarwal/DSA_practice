@@ -710,6 +710,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1661-average-time-of-process-per-machine) |
+| [1667-fix-names-in-a-table](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
