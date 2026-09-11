@@ -3,7 +3,7 @@ public:
     void helper(int j,vector<int>& temp, vector<vector<int>>&result, vector<int>&nums)
     {
         int n=nums.size();
-        
+        // if(j>=n)
         result.push_back(temp);
         
         for(int i=j;i<n;i++)
@@ -12,6 +12,7 @@ public:
             temp.push_back(nums[i]);
             helper(i+1,temp,result,nums);
             temp.pop_back();
+            // helper(i+1,temp,result,nums);
         }
         
     }
