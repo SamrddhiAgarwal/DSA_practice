@@ -307,6 +307,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0805-split-array-with-same-average](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0904-fruit-into-baskets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0904-fruit-into-baskets) |
@@ -368,6 +369,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0459-repeated-substring-pattern) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0567-permutation-in-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0899-orderly-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0899-orderly-queue) |
 | [0940-distinct-subsequences-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
@@ -477,6 +479,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0567-permutation-in-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0567-permutation-in-string) |
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -521,6 +524,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0904-fruit-into-baskets) |
