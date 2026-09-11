@@ -63,6 +63,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
@@ -314,6 +315,7 @@
 | [0904-fruit-into-baskets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1562-find-latest-group-of-size-m](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1562-find-latest-group-of-size-m) |
@@ -501,6 +503,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Binary Indexed Tree
 |  |
@@ -532,6 +535,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
