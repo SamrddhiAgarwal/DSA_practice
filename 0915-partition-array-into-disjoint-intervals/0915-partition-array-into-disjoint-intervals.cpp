@@ -15,7 +15,7 @@ public:
         {
             if(nums[i]>=mx)
             {l=min(l,i);
-            nmx=nums[i];}
+            nmx=max(nmx,nums[i]);}
             if(nums[i]<mx)
             {
                 mx=nmx;
