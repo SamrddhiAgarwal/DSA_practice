@@ -18,6 +18,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0152-maximum-product-subarray) |
@@ -453,6 +454,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0805-split-array-with-same-average](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0805-split-array-with-same-average) |
@@ -652,6 +654,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
