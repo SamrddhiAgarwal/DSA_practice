@@ -445,6 +445,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0343-integer-break) |
@@ -771,6 +772,10 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0051-n-queens) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
