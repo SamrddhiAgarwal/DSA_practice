@@ -179,6 +179,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1192-critical-connections-in-a-network](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1192-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -380,6 +381,7 @@
 | [0899-orderly-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0899-orderly-queue) |
 | [0940-distinct-subsequences-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -628,6 +630,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0687-longest-univalue-path) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -645,6 +648,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0687-longest-univalue-path) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
