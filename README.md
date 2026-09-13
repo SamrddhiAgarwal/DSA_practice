@@ -61,6 +61,7 @@
 | [0875-koko-eating-bananas](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0909-snakes-and-ladders) |
+| [0910-smallest-range-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0910-smallest-range-ii) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0930-binary-subarrays-with-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
@@ -357,6 +358,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0721-accounts-merge](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0721-accounts-merge) |
 | [0899-orderly-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0899-orderly-queue) |
+| [0910-smallest-range-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0910-smallest-range-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -455,6 +457,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0805-split-array-with-same-average](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0899-orderly-queue](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0899-orderly-queue) |
+| [0910-smallest-range-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0910-smallest-range-ii) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 ## Bit Manipulation
 |  |
@@ -571,6 +574,7 @@
 | [0410-split-array-largest-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0910-smallest-range-ii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0910-smallest-range-ii) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
