@@ -813,6 +813,14 @@
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
