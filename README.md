@@ -71,6 +71,7 @@
 | [0962-maximum-width-ramp](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0962-maximum-width-ramp) |
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1020-number-of-enclaves) |
@@ -483,6 +484,7 @@
 | [0805-split-array-with-same-average](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0805-split-array-with-same-average) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0980-unique-paths-iii) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1755-closest-subsequence-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -496,6 +498,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -566,6 +569,7 @@
 | [0904-fruit-into-baskets](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -575,6 +579,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
@@ -804,6 +809,10 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0060-permutation-sequence) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/SamrddhiAgarwal/DSA_practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## Graphs
